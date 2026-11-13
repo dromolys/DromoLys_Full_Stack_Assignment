@@ -1,0 +1,1 @@
+export const serverURL = "https://dromolys-full-stack-assignment-10.onrender.com"
